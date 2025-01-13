@@ -9,8 +9,6 @@ my-react-vite-spa
 ├── public
 │   └── index.html          # Main HTML file
 ├── src
-│   ├── components
-│   │   └── ExampleComponent.jsx  # Component to display animals and modal
 │   ├── hooks
 │   │   └── useExampleQuery.js     # Custom hook for fetching animal data
 │   ├── pages
